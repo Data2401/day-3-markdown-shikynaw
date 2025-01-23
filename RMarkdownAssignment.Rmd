@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Shikyna William"
 date: "Data 2401"
 output: html_document
 ---
@@ -35,3 +35,43 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+ ---
+# Your work here
+ 
+ 
+ 
+ 
+## Wise Words
+
+This is my favourite quote by an unknown author:
+
+> The will of God will not take you where the grace of God will not protect you.
+ 
+[Check out this quote](https://bibleapologetics.org/the-will-of-god-quotes-to-encourage-the-soul/)
+ 
+ 
+ 
+ 
+### My Semester
+
+
+
+| DATA2401 | CS2311 | PSY2307 |
+|:-----------|:-------|:--------|
+| _Data Structures and Algorithms_ | _Data Science 1_ | _Research Methods with Psychology_ |
+| John Henderson | Dr. Katherine Shoemaker | Mallori Henceroth |
+
+
+
+#### I recommend
+
+
+
+##### MARV
+> They wasn't there, they wouldn't understand and how could I know your mercy if I never failed
+
+1. Fill it up
+2. Less of me
+3. Safely
+
+
